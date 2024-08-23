@@ -18,8 +18,7 @@ I am an Engineer, Entrepreneur, Sportsman, Martial Artist, and Painter. My diver
 
 ## Current Focuses
 - **📚 Bachelor of Technology (B.Tech)** in Computer Science and Engineering at Gandhi Institute of Technology and Management, Bangalore, India (2023-2027).
-- **🔧 ElectraStream Project**: A venture focusing on PCB manufacturing at the Venture Development Centre (VDC).
-- **🚀 GitHub Club**: Leading initiatives as the President of the GitHub Club at GITAM University.
+- **🚀 GitHub Club**: Leading initiatives the GitHub Club at GITAM University.
 
 ## Goals
 - 🎓 Complete B.Tech in Computer Science and Engineering.
