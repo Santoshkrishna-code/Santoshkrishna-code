@@ -17,8 +17,11 @@ I am an Engineer, Entrepreneur, Sportsman, Martial Artist, and Painter. My diver
 - **🔗 IoT & Embedded Systems**: Working on projects that address specific problems, especially within educational environments like GITAM University, Bangalore.
 
 ## Current Focuses
-- **📚 Bachelor of Technology (B.Tech)** in Computer Science and Engineering at Gandhi Institute of Technology and Management, Bangalore, India (2023-2027).
-- **🚀 GitHub Club**: Leading initiatives the GitHub Club at GITAM University.
+- **Innovative Problem-Solving**: Applying creative thinking and new approaches to address complex challenges, drawing on diverse perspectives and techniques from various disciplines.
+
+- **Engaging Discussions**: Actively participating in discussions and feedback sessions to refine and evolve ideas, incorporating insights from different sources to enhance project development.
+
+- **Interdisciplinary Integration**: Combining expertise from fields such as game development, IoT, AR/VR, and embedded systems to create innovative solutions and tackle multifaceted problems.
 
 ## Goals
 - 🎓 Complete B.Tech in Computer Science and Engineering.
