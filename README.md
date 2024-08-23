@@ -32,9 +32,9 @@ I am an Engineer, Entrepreneur, Sportsman, Martial Artist, and Painter. My diver
 
 ## Skills
 - **💻 Programming & Coding**: High learning ability, critical thinking, and a knack for problem-solving.
-- **🏅 Sports**: Experienced in basketball (Point Guard), football (Goal Keeper/Power Forward), and martial arts (master in 10 arts).
-- **🎨 Creative Arts**: Specialist in watercolor painting.
-- **🗣️ Soft Skills**: Strong communication, strategic thinking, and leadership qualities.
+- **🏅 Sports**: Experienced in basketball (Point Guard), football (Goal Keeper/Power Forward), and martial arts .
+- **🎨 Creative Arts**: Specially in watercolor painting.
+- **🗣️ Soft Skills**: Strong communication, strategic thinking, and logical thinking.
 
 ## Formal Education
 - **🎓 2023-2027**: Bachelor of Technology (Computer Science and Engineering)  
