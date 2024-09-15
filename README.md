@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Namaste!;" alt="Typing SVG" />
 </h1>
 
-<h2 align="center" style="color:#e67e22; font-family:'Righteous', sans-serif; font-size: 100px;">Bandla Santosh Krishna 🌟</h2>
+<h1 align="center" style="color:#e67e22; font-family:'Righteous', sans-serif;">Bandla Santosh Krishna 🌟</h1>
 
 
 <h3 align="center" style="font-style:italic; color:#3498db;">Invest in Your Future - Feed your mind, elevate your game - Live long and go on playing 🚀</h3>
@@ -104,7 +104,7 @@
     <a href="https://github.com/Santoshkrishna-code">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
     </a>
-    <a href="[https://www.linkedin.com/in/b-santosh-krishna/](https://www.linkedin.com/in/bandla-santosh-krishna-1a1728293/)">
+    <a href="https://www.linkedin.com/in/bandla-santosh-krishna-1a1728293/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
     </a>
 </div>
