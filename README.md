@@ -2,9 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Namaste!;" alt="Typing SVG" />
 </h1>
 
-<h2 align="center" style="color:#e67e22; font-family:'Righteous', sans-serif;">Bandla Santosh Krishna 🌟</h2>
+<h2 align="center" style="color:#e67e22; font-family:'Righteous', sans-serif; font-size: 100px;">Bandla Santosh Krishna 🌟</h2>
 
-<h3 align="center" style="font-style:italic; color:#3498db;">*Invest in Your Future - Feed your mind, elevate your game - Live long and go on playing* 🚀</h3>
+
+<h3 align="center" style="font-style:italic; color:#3498db;">Invest in Your Future - Feed your mind, elevate your game - Live long and go on playing 🚀</h3>
 
 ---
 
@@ -58,10 +59,10 @@
 ### 💪 Skills & Strengths
 <div style="background: linear-gradient(135deg, #9b59b6, #8e44ad); padding:20px; border-radius:15px; color:white; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
   <ul>
-    <li>**💻 Programming:** From <strong>C</strong> to <strong>React</strong> and beyond, I love coding and problem-solving.</li>
-    <li>**🏀 Sports:** As a <strong>Point Guard</strong> in basketball and a <strong>Goalkeeper</strong> in football, I thrive in team-based challenges.</li>
-    <li>**🎨 Creative Arts:** Skilled in <strong>watercolor painting</strong>.</li>
-    <li>**🗣️ Communication:** Strong in <strong>strategic thinking</strong> and <strong>logical reasoning</strong>.</li>
+    <li>💻 Programming:** From <strong>C</strong> to <strong>React</strong> and beyond, I love coding and problem-solving.</li>
+    <li>🏀 Sports:** As a <strong>Point Guard</strong> in basketball and a <strong>Goalkeeper</strong> in football, I thrive in team-based challenges.</li>
+    <li>🎨 Creative Arts:** Skilled in <strong>watercolor painting</strong>.</li>
+    <li>🗣️ Communication:** Strong in <strong>strategic thinking</strong> and <strong>logical reasoning</strong>.</li>
   </ul>
 </div>
 
@@ -75,17 +76,7 @@
   </ul>
 </div>
 
----
 
-### 💡 My Personal Philosophy
-<div style="padding: 15px; background: linear-gradient(135deg, #f39c12, #f1c40f); border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
-  <p>✨ *“Experience comprises illusions lost, rather than wisdom gained.”*</p>
-  <p>💭 *“How weak the mind when it wants to forget.”*</p>
-  <p>⚖️ *“Justice is defined by those who win. Whoever prevails, makes the rules.”*</p>
-  <p>🌪️ *“The toughest challenges create the best players. The hardest lessons make the best leaders.”*</p>
-</div>
-
----
 
 ### ⚒️ Languages & Tools ⚒️
 <div align="center">
