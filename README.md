@@ -107,6 +107,13 @@
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=Santoshkrishna-code&theme=tokyonight&border_radius=10" alt="GitHub Streak" style="border-radius: 10px;" />
 </div>
 
+<!-- GitHub Trophies -->
+<hr style="border: 2px solid #e67e22; width: 80%; margin: 20px auto;">
+
+### 🏆 GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Santoshkrishna-code&theme=tokyonight&no-frame=true" alt="GitHub Trophies" style="width: 80%; max-width: 900px; margin-bottom: 20px;" />
+</div>
 <hr style="border: 2px solid #9b59b6; width: 80%; margin: 20px auto;">
 
 ### 🌐 Connect With Me
