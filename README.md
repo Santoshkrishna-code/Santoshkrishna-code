@@ -17,7 +17,7 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,html,css,js,react,nodejs,unity,unreal,blender,linux,vscode,github,docker,aws,anaconda,ardunio,mongodb" alt="Tech Stack Icons" style="max-width: 100%; border-radius: 10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,html,css,js,react,nodejs,unity,unreal,blender,linux,vscode,github,docker,aws,anaconda,arduino,mongodb" alt="Tech Stack Icons" style="max-width: 100%; border-radius: 10px;" />
 </div>
 
 <hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
