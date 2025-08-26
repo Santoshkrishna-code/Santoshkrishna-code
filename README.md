@@ -22,6 +22,22 @@
 
 <hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
 
+<!-- 🛠️ Notable Projects -->
+<h2 align="center" style="color:#3498db; font-family:'Righteous', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.3);">
+    🛠️ Notable Projects 🛠️
+</h2>
+
+<div align="center">
+  
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **MyFaceDetect** | Professional face detection library with real-time processing, batch operations & dual ML models (OpenCV + MediaPipe) | Python, OpenCV, MediaPipe | [![PyPI](https://img.shields.io/pypi/v/myfacedetect?style=flat&logo=pypi)](https://pypi.org/project/myfacedetect/) [![GitHub](https://img.shields.io/github/stars/Santoshkrishna-code/myfacedetect?style=flat&logo=github)](https://github.com/Santoshkrishna-code/myfacedetect) |
+
+
+</div>
+
+<hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
+
 <!-- 📊 GitHub Stats -->
 <h2 align="center" style="color:#3498db; font-family:'Righteous', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.3);">
     ⚡ GitHub Stats ⚡
