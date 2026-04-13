@@ -1,69 +1,164 @@
-<!-- 🔥 Life Quote -->
-<h1 align="center" style="font-style: italic; font-size: 32px; color: #e74c3c; text-shadow: 4px 2px 10px rgba(0,0,0,0.4); font-family: 'Georgia', serif;">
-  “Think lightly of yourself and Deeply of the world.”
-</h1>
-
-<!-- ✍️ Typing Name Animation -->
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=46&center=true&vCenter=true&width=700&height=100&duration=3000&pause=1000&color=3498DB&background=00000000&lines=Bandla+Santosh+Krishna+🌟" 
-    alt="Typing SVG"
-  />
-</h1>
-
-<hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
-
-<!-- 💻 Unified Tech Stack -->
-### 💻 Tech Stack
-
+<!-- RETRO HEADER -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,html,css,js,react,nodejs,unity,unreal,blender,linux,vscode,github,docker,aws,anaconda,arduino,mongodb" alt="Tech Stack Icons" style="max-width: 100%; border-radius: 10px;" />
-</div>
 
-<hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
+```
+      ___           ___           ___       ___       ___                    ___           ___           ___           ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \                  /\__\         /\  \         /\  \         /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \                /:/ _/_       /::\  \       /::\  \       /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \              /:/ /\__\     /:/\:\  \     /:/\:\  \     /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \            /:/ /:/ _/_   /:/  \:\  \   /::\~\:\  \   /:/  /    /:/  \:\__\ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\          /:/_/:/ /\__\ /:/__/ \:\__\ /:/\:\ \:\__\ /:/__/    /:/__/ \:|__|
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /          \:\/:/ /:/  / \:\  \ /:/  / \/_|::\/:/ / \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  /            \::/_/:/  /   \:\  /:/  /     |:|::/ /   \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /              \:\/:/  /     \:\/:/  /      |:|\/__/     \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /                \::/  /       \::/  /       |:|  |        \:\__\    \::/__/   
+     \/__/         \/__/         \/__/     \/__/     \/__/                  \/__/         \/__/         \|__|         \/__/     ~~       
+```
 
-<!-- 🛠️ Notable Projects -->
-<h2 align="center" style="color:#3498db; font-family:'Righteous', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.3);">
-    🛠️ Notable Projects 🛠️
-</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+PROFILE...;LOADING+SANTOSH_KRISHNA.EXE...;GAME+DEV+%7C+FULL+STACK+%7C+AI%2FML;STATUS%3A+BUILDING+COOL+STUFF...;PRESS+START+TO+EXPLORE+%F0%9F%9A%80" />
 
-<div align="center">
-  
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **MyFaceDetect** | Professional face detection library with real-time processing, batch operations & dual ML models (OpenCV + MediaPipe) | Python, OpenCV, MediaPipe | [![PyPI](https://img.shields.io/pypi/v/myfacedetect?style=flat&logo=pypi)](https://pypi.org/project/myfacedetect/) [![GitHub](https://img.shields.io/github/stars/Santoshkrishna-code/myfacedetect?style=flat&logo=github)](https://github.com/Santoshkrishna-code/myfacedetect) |
-
+![Views](https://komarev.com/ghpvc/?username=Santoshkrishna-code&style=flat-square&color=00ff41&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Santoshkrishna-code?style=flat-square&color=00ff41)
 
 </div>
 
-<hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
+---
 
-<!-- 📊 GitHub Stats -->
-<h2 align="center" style="color:#3498db; font-family:'Righteous', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.3);">
-    ⚡ GitHub Stats ⚡
-</h2>
+## `> ABOUT_ME.EXE`
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  PLAYER CARD                              [ INSERT COIN TO CONTINUE ]    ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  NAME     :  Bandla Santosh Krishna                                      ║
+║  CLASS    :  Full-Stack + Game Developer                                 ║
+║  ORIGIN   :  India 🇮🇳                                                    ║
+║  GUILD    :  GITAM University                                            ║
+║  STATUS   :  Building things that didn't exist yesterday                 ║
+║                                                                          ║
+║  SKILLS   :  Python ████████░░  C/C++ ███████░░░  Unity ██████░░░░       ║
+║              React  ██████░░░░  ML/CV ██████░░░░  Blender █████░░░░░     ║
+║                                                                          ║
+║  QUESTS   :  [✅] Published PyPI library                                 ║
+║              [✅] Built face detection system                            ║
+║              [🔄] Mastering Unreal Engine 5                              ║
+║              [🔄] Deepening ML / AI knowledge                            ║
+║              [🔒] 1K GitHub Stars                                        ║
+║                                                                          ║
+║  MANTRA   :  "Think lightly of yourself, deeply of the world."           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</td>
+<td valign="middle" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="pixel art game character"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> STACK.LOG`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## `> PROJECTS.DIR`
+
+```
+  /projects
+  ├── 📦 myfacedetect/         [ STATUS: LIVE ✅ ]
+  │       DESC    : Professional face detection library
+  │                 Real-time & batch processing, dual ML models
+  │                 (OpenCV + MediaPipe)
+  │       STACK   : Python · OpenCV · MediaPipe
+  │       INSTALL : pip install myfacedetect
+
+```
+
+| Project | Links |
+|---------|-------|
+| **MyFaceDetect** | [![PyPI](https://img.shields.io/pypi/v/myfacedetect?style=flat-square&logo=pypi)](https://pypi.org/project/myfacedetect/) [![Stars](https://img.shields.io/github/stars/Santoshkrishna-code/myfacedetect?style=flat-square&logo=github)](https://github.com/Santoshkrishna-code/myfacedetect) |
+
+---
+
+## `> GITHUB_STATS.DAT`
 
 <div align="center">
-  <!-- GitHub Contributions -->
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=Santoshkrishna-code&count_private=true&show_icons=true&include_all_commits=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 20px;" />
-  
-  <!-- GitHub Streak -->
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=Santoshkrishna-code&theme=tokyonight&border_radius=10" alt="GitHub Streak" style="border-radius: 10px;" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Santoshkrishna-code&theme=tokyonight&border_radius=10&hide_border=true&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41" />
+
 </div>
 
-<hr style="border: 2px solid #3498db; width: 80%; margin: 20px auto;">
+---
 
-<!-- 🌐 Social Links -->
-### 🌐 Connect With Me
+## `> ACTIVITY_GRAPH.LOG`
 
 <div align="center">
-    <a href="mailto:santoshkrishnabandla@gitam.in">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Button"/>
-    </a>
-    <a href="https://github.com/Santoshkrishna-code">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
-    </a>
-    <a href="https://www.linkedin.com/in/bandla-santosh-krishna-1a1728293/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
-    </a>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santoshkrishna-code&theme=tokyo-night&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff)](https://github.com/Santoshkrishna-code)
+
+</div>
+
+---
+
+## `> CONNECT.SH`
+
+```bash
+#!/bin/bash
+# Open to:
+echo "💡 Collaborations & open source"
+echo "🎮 Game jams & hackathons"
+echo "🌐 Internships & freelance"
+echo "💬 Talking tech, games, or ideas"
+
+# Reach me:
+open "https://linkedin.com/in/bandla-santosh-krishna-1a1728293"
+open "mailto:santoshkrishnabandla@gitam.in"
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bandla-santosh-krishna-1a1728293/)
+[![Gmail](https://img.shields.io/badge/SAY+HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshkrishnabandla@gitam.in)
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║   "Think lightly of yourself,                        ║
+║    and deeply of the world."     — Miyamoto Musashi  ║
+║                                                      ║
+║   THANKS FOR VISITING                                ║
+╚══════════════════════════════════════════════════════╝
+```
+
 </div>
