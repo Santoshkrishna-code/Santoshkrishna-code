@@ -41,13 +41,13 @@
 ║  GUILD    :  GITAM University                                            ║
 ║  STATUS   :  Building things that didn't exist yesterday                 ║
 ║                                                                          ║
-║  SKILLS   :  Java ████████░░  C/C++ ███████░░░  Python ██████░░░░         ║
+║  SKILLS   :  Java ████████░░  C/C++ ███████░░░  Python ██████░░░░        ║
 ║              React  ██████░░░░  ML/CV ██████░░░░  Blender █████░░░░░     ║
 ║                                                                          ║
-║  QUESTS   :  [✅] Published PyPI library                                 ║
-║              [✅] Built face detection system                            ║
-║              [🔄] Mastering Unreal Engine 5                              ║
-║              [🔄] Deepening ML / AI knowledge                            ║
+║  QUESTS   :  [✓] Published PyPI library                                  ║
+║              [✓] Built face detection system                             ║
+║              [⏳] Mastering Unreal Engine 5                              ║
+║              [⏳] Deepening ML / AI knowledge                            ║
 ║              [🔒] 1K GitHub Stars                                        ║
 ║                                                                          ║
 ║                                                                          ║
@@ -94,7 +94,7 @@
 
 ```
   /projects
-  ├── 📦 myfacedetect/         [ STATUS: LIVE ✅ ]
+  ├── 📦 myfacedetect/         [ STATUS: LIVE [✓] ]
   │       DESC    : Professional face detection library
   │                 Real-time & batch processing, dual ML models
   │                 (OpenCV + MediaPipe)
@@ -102,12 +102,14 @@
   │       INSTALL : pip install myfacedetect
 
 ```
+<div align="center">
 
 | Project | Links |
 |---------|-------|
-| **MyFaceDetect** | [![PyPI](https://img.shields.io/pypi/v/myfacedetect?style=flat-square&logo=pypi)](https://pypi.org/project/myfacedetect/) [![Stars](https://img.shields.io/github/stars/Santoshkrishna-code/myfacedetect?style=flat-square&logo=github)](https://github.com/Santoshkrishna-code/myfacedetect) |
+| **MyFaceDetect** | [![PyPI](https://img.shields.io/pypi/v/myfacedetect?style=flat-square&logo=pypi)](https://pypi.org/project/myfacedetect/) [![GitHub Stars](https://img.shields.io/github/stars/Santoshkrishna-code/myfacedetect?style=flat-square&logo=github)](https://github.com/Santoshkrishna-code/myfacedetect) |
 
----
+</div>
+
 
 ## `> GITHUB_STATS.DAT`
 
@@ -134,10 +136,10 @@
 ```bash
 #!/bin/bash
 # Open to:
-echo "💡 Collaborations & open source"
-echo "🎮 Game jams & hackathons"
-echo "🌐 Internships & freelance"
-echo "💬 Talking tech, games, or ideas"
+echo " Collaborations & open source"
+echo " Game jams & hackathons"
+echo " Internships & freelance"
+echo " Talking tech, games, or ideas"
 
 # Reach me:
 open "https://linkedin.com/in/bandla-santosh-krishna-1a1728293"
