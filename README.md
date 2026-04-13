@@ -41,7 +41,7 @@
 ║  GUILD    :  GITAM University                                            ║
 ║  STATUS   :  Building things that didn't exist yesterday                 ║
 ║                                                                          ║
-║  SKILLS   :  Python ████████░░  C/C++ ███████░░░  Unity ██████░░░░       ║
+║  SKILLS   :  Java ████████░░  C/C++ ███████░░░  Python ██████░░░░         ║
 ║              React  ██████░░░░  ML/CV ██████░░░░  Blender █████░░░░░     ║
 ║                                                                          ║
 ║  QUESTS   :  [✅] Published PyPI library                                 ║
@@ -50,7 +50,6 @@
 ║              [🔄] Deepening ML / AI knowledge                            ║
 ║              [🔒] 1K GitHub Stars                                        ║
 ║                                                                          ║
-║  MANTRA   :  "Think lightly of yourself, deeply of the world."           ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
