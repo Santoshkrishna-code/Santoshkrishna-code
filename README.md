@@ -100,6 +100,20 @@
   │                 (OpenCV + MediaPipe)
   │       STACK   : Python · OpenCV · MediaPipe
   │       INSTALL : pip install myfacedetect
+  |
+  ├── 🛠️ forgedesk/            [ STATUS: ACTIVE [✓] ]
+  │       DESC    : All-in-one productivity web app
+  │                 QR generation, PDF tools, file conversions
+  │                 (PDF, Word, Images)
+  │       STACK   : React · TypeScript
+  │       INSTALL : Clone & run locally (npm install)
+  │
+  ├── 🚀 space-strike/         [ STATUS: COMPLETE [✓] ]
+  │       DESC    : Space Invaders-style arcade game
+  │                 Smooth gameplay, scoring, enemy waves
+  │                 Play via EXE or run from source
+  │       STACK   : Python · Pygame
+  │       INSTALL : Run via Python / Download EXE
 
 ```
 <div align="center">
@@ -107,6 +121,8 @@
 | Project | Links |
 |---------|-------|
 | **MyFaceDetect** | [![PyPI](https://img.shields.io/pypi/v/myfacedetect?style=flat-square&logo=pypi)](https://pypi.org/project/myfacedetect/) [![GitHub Stars](https://img.shields.io/github/stars/Santoshkrishna-code/myfacedetect?style=flat-square&logo=github)](https://github.com/Santoshkrishna-code/myfacedetect) |
+| **ForgeDesk** | [![Live](https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=vercel)](https://forgedesk0.vercel.app/) [![GitHub](https://img.shields.io/github/stars/Santoshkrishna-code/ForgeDesk?style=flat-square&logo=github)](https://github.com/Santoshkrishna-code/ForgeDesk) |
+| **Space-Strike** | [![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=flat-square&logo=windows)](https://github.com/Santoshkrishna-code/Space-Strike/raw/main/dist/Space-Strike.exe) [![GitHub](https://img.shields.io/github/stars/Santoshkrishna-code/Space-Strike?style=flat-square&logo=github)](https://github.com/Santoshkrishna-code/Space-Strike) |
 
 </div>
 
